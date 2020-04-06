@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">YoutubeVideo</string>
+    <string name="app_name">Video Player</string>
+    <string name="small_problem">Player encountered a small problem</string>
+
 </resources>
